@@ -28,7 +28,7 @@ Each one of them is located in a folder. For further explanation contact the aut
 # Requirements
 Make sure you have a ``` PIC16F877A ``` microcontroller, its pin layout is described in the following image:
 
-[INSERT PIC]
+![Pines PIC16F877A](https://user-images.githubusercontent.com/62435399/219262449-5124da0c-129c-46f2-aa26-d3b873d4eec0.jpg)
 
 # Running the code
 To run the code you need to compile it using software, in this case we used "PIC C Compiler" software, and to burn the program into the microcontroller we used PIC burner, use the reference you prefer.
